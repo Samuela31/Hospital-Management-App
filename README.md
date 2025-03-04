@@ -31,5 +31,7 @@ There are 3 types of logins- patient, doctor, and admin. Choose one to get user 
 
 - <b>Admin:</b> Admin can register new doctors and delete account of users (both patient and doctors). For deleting user, they have to mention if they are patient or doctor, and then enter email of user to be deleted. The list of all users will be displayed and their status- “Patient” or “Doctor” will be mentioned.
 
+<img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661152899597.jpg" alt="Admin homepage" width="250" height="400"> <img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661152899583.jpg" alt="Admin actions" width="250" height="400">
+
 ## Future Work/ Improvements 
 A website can be created for the same, dashboards with useful insights can be included, and payment gateways can be integrated.
