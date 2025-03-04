@@ -27,9 +27,7 @@ There are 3 types of logins- patient, doctor, and admin. Choose one to get user 
   
 - <b>Doctors:</b> Doctors can see pending appointments in notification section where they can either reject or accept patient appointments. For this they have to enter email of patient from the displayed list along with date of appointment, and if they accept appointment then they have to enter time of appointment. Then they can press either accept or reject button and the patient will be notified. Doctors can update patient history only for the appointments which he has accepted, and after updating patient history the appointment is considered as finished and will be deleted from the database.
 
-
-<img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661153514653.jpg" alt="Patient history" width="250" height="400">
-<img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661154385132.jpg" alt="Appointments" width="250" height="400">
+<img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661153514653.jpg" alt="Patient history" width="250" height="400"> <img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661154385132.jpg" alt="Appointments" width="250" height="400">
 
 - <b>Admin:</b> Admin can register new doctors and delete account of users (both patient and doctors). For deleting user, they have to mention if they are patient or doctor, and then enter email of user to be deleted. The list of all users will be displayed and their status- “Patient” or “Doctor” will be mentioned.
 
