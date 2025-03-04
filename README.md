@@ -20,6 +20,11 @@ medications taken. So it difficult for the doctor to diagnosis the patient accur
 There are 3 types of logins- patient, doctor, and admin. Choose one to get user priviledges and access accordingly. 
 
 - <b>Patients:</b> Patients can book appointments by selecting doctor and the date. They can also see patient history, status of booked appointments, and can cancel appointments. If they cancel appointment, then the doctor will be notified within app. No external email or SMS notifications will be sent.
+
+
+  <img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661152507194.jpg" alt="Patient sign-in" width="300" height="700"> 
+  <img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661152507207.jpg" alt="Patient homepage" width="300" height="700">
+  <img src="https://github.com/Samuela31/Hospital-Management-App/blob/main/Progress/1661153514653.jpg" alt="Patient history" width="300" height="700">
   
 - <b>Doctors:</b> Doctors can see pending appointments in notification section where they can either reject or accept patient appointments. For this they have to enter email of patient from the displayed list along with date of appointment, and if they accept appointment then they have to enter time of appointment. Then they can press either accept or reject button and the patient will be notified. Doctors can update patient history only for the appointments which he has accepted, and after updating patient history the appointment is considered as finished and will be deleted from the database.
 
